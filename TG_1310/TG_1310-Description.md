@@ -1,6 +1,7 @@
 # Features
 
 - Information summary window added to communicate better which Excel files are missing and where they were last time found.
+- Support for Revit 2022 version added.
 
 # Enhancements
 - Improved BIM360 support for file paths.
